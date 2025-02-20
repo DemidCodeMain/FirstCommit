@@ -9,3 +9,5 @@ if b == '*':
     print(a*c)
 if b == '/':
     print(a/c)
+if b == '%':
+    print(a%c)
